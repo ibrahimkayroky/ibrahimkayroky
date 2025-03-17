@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [SellingCarParts](https://github.com/ibrahimkayroky/sellingcarparts)
 - 🌱 I’m currently learning **Spring, Flutter**
 - 📫 How to reach me: **[ibrahimesam732@gmail.com](mailto:ibrahimesam732@gmail.com)**
-- 📄 Know about my experiences: [Resume](https://shorturl.at/ruIyX)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XyU-3wKbHL7H-a8n1c5g3oLrWswYbo0u/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
